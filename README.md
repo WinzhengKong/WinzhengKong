@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @WenzhengJiang
-- 👀 I’m interested in Federated Learning and Reinforcement Learning
-- 🌱 I’m currently learning Federated Reinforcement Learning
+- 👋 Hi, I’m WenzhengJiang, a master's student from the National University of Defense Technology.
+- 👀 I’m interested in Robust Federated Learning.
+- 🌱 I’m currently learning Federated Reinforcement Learning.
 - 📫 How to reach me [jiangwenzheng@nudt.edu.cn](mailto:jiangwenzheng@nudt.edu.cn)
 
 <!---
