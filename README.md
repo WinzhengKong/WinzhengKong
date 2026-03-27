@@ -1,9 +1,10 @@
-- 👋 Hi, I’m WenzhengJiang, a master's student at National University of Defense Technology.
-- 👀 I’m interested in Robust Machine Learning, Federated Learning, Reinforcement Learning.
-- 🌱 I’m currently learning Federated Reinforcement Learning.
-- 📫 How to reach me [jiangwenzheng@nudt.edu.cn](mailto:jiangwenzheng@nudt.edu.cn)
+## 👋 Hi, I'm Wenzheng Jiang!
 
-<!---
-WinzhengKong/WinzhengKong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a PhD student at the **PDL, National University of Defense Technology**.
+
+### 🔍 Research Interests
+- **Trustworthy AI**: Robustness, security, and privacy-preserving mechanisms in machine learning.
+- **Federated Learning**: Designing efficient and secure collaborative learning frameworks for distributed environments.
+
+### 📬 Contact Me
+- **Email**: [jiangwenzheng@nudt.edu.cn](mailto:jiangwenzheng@nudt.edu.cn)
